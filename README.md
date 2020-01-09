@@ -54,7 +54,7 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(26).pdf" style="text-decoration:none;">A High Performance Architecture for Prolog</a></b></li>  
 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(27).pdf" style="text-decoration:none;">Micro-Prolog: Programming in Logic</a></b></li>  
-
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(28).pdf" style="text-decoration:none;">Software Visualization in Prolog</a></b></li> 
      
  </ul>
 
