@@ -45,8 +45,15 @@
 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(22).pdf" style="text-decoration:none;">From Logic Programming to Prolog</a></b></li>  
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(23).pdf" style="text-decoration:none;">Adventure in Prolog</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(24).pdf" style="text-decoration:none;">PROLOG for Computer Science</a></b></li>  
 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(25).pdf" style="text-decoration:none;">Prolog Based Reasoning</a></b></li>  
 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(26).pdf" style="text-decoration:none;">A High Performance Architecture for Prolog</a></b></li>  
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(27).pdf" style="text-decoration:none;">Micro-Prolog: Programming in Logic</a></b></li>  
 
      
  </ul>
