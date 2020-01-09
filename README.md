@@ -32,11 +32,18 @@
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(16).pdf" style="text-decoration:none;">The Practice of Prolog</a></b></li>  
    
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(17).pdf" style="text-decoration:none;">The Clean Coder: A Code of Conduct for Professional Programmers</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(17).pdf" style="text-decoration:none;">Prolog Programming: A First Course</a></b></li>
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(18).pdf" style="text-decoration:none;">The Visual LISP Developers Bible</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(18).pdf" style="text-decoration:none;">Prolog Basics</a></b></li>  
 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(19).pdf" style="text-decoration:none;">6.1 Prolog++ Reference</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(20).pdf" style="text-decoration:none;">Prolog Experiments in Discrete Mathematics, Logic, and Computability</a></b></li>
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(21).pdf" style="text-decoration:none;">Prolog and Natural-Language Analysis</a></b></li>  
 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Prolog-Books/blob/master/plg(22).pdf" style="text-decoration:none;">From Logic Programming to Prolog</a></b></li>  
 
 
 
